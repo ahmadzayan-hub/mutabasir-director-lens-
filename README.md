@@ -93,6 +93,8 @@ cp .env.example .env.local
 npm run db:apply   # applies supabase/migrations/*.sql
 ```
 
+<p align="center"><img src="docs/assets/hero.jpg" alt="Concept image (AI-generated). Not a product screenshot." width="100%"><br><sub><em>Concept image (AI-generated). Not a product screenshot.</em></sub></p>
+
 Only run `db:apply` against a development database you control. It writes
 schema state.
 
